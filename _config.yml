@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://CliffBarbier.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Zen Garden of InfoSec
+subtitle: Stories and teachings of an information security professional.
+author: Cliff Barbier
 simple_search: https://www.google.com/search
-description:
+description: I'm interested in bridging the gap between technologists and the rest of the world. I excel at helping non-experts understand the technical or regulatory issues that apply to them. I believe information security should be lean, easy to use, understandable, and unobtrusive (where possible) for the end user. I believe that security products and processes should provide real, actionable information to users (InfoSec or end).
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: cliffb_infosec
 twitter_tweet_button: true
 
 # Google +1
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: zengardenofinfosec
 disqus_show_comment_count: false
 
 # Google Analytics
