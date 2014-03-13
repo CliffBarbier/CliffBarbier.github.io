@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://CliffBarbier.github.io/sitemap.xml 
