@@ -25,9 +25,10 @@ Half my meals are eaten standing up&mdash;half of those while rushing to get som
 
 I have watched my children grow up via webcam.
 
-It is my job to meet for the first time and impress a person; a handful; a dozen; hundreds at a time.  This is difficult on 3 hours sleep.  Four energy drinks, energy shots, or cups of coffee help.
+It is my job to meet for the first time and impress a person; a handful; a dozen; hundreds at a time.  This is difficult on 3 hours sleep.  I subsist on energy drinks, energy shots, or coffee.
 
-I know more about TSA procedures than half of the TSA officers I come into contact with.  I want to shout, “you’re doing it wrong!”  But this is the last leg on my trip home...
+I know more about the TSA's screening procedures than half of the TSA officers I come into contact with.  I want to shout, “you’re doing it wrong!”  
+But this is the last leg on my trip back home...
 
 I am a road warrior.
 
