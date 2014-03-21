@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Business Continuity | Zen Garden of InfoSec]]></title>
   <link href="http://CliffBarbier.github.io/blog/categories/business-continuity/atom.xml" rel="self"/>
   <link href="http://CliffBarbier.github.io/"/>
-  <updated>2014-03-21T10:24:36-05:00</updated>
+  <updated>2014-03-21T10:36:18-05:00</updated>
   <id>http://CliffBarbier.github.io/</id>
   <author>
     <name><![CDATA[Cliff Barbier]]></name>
@@ -27,7 +27,7 @@
 
 <h2>What Is Emergency Preparedness?</h2>
 
-<p><strong>Business continuity</strong> is an umbrella term for ensuring that an organization&rsquo;s critical business functions will continue to operate or recover to an operational state within a short time.  Not all business continuity problems start out as disasters.  Twitter&rsquo;s once-frequent Fail Whale indicated the runaway success of the service.  <a href="http://whatisfailwhale.info"><img class="left" src="/images/Failwhale.png" title="&ldquo;Lifting a Dreamer by Yiying Lu&rdquo; &ldquo;A low-resolution screenshot of the Fail Whale on Twitter&rsquo;s website&rdquo;" ></a>  But this success obviously caused problems for their critical business function, receiving and distributing 140-character messages.</p>
+<p><strong>Business continuity</strong> is an umbrella term for ensuring that an organization&rsquo;s critical business functions will continue to operate or recover to an operational state within a short time.  Not all business continuity problems start out as disasters.  Twitter&rsquo;s once-frequent Fail Whale indicated the runaway success of the service.  <a href="http://whatisfailwhale.info"><img class="left" src="/images/Failwhale.png" width="300" title="&ldquo;Lifting a Dreamer by Yiying Lu&rdquo; &ldquo;A low-resolution screenshot of the Fail Whale on Twitter&rsquo;s website&rdquo;" ></a>  But this success obviously caused problems for their critical business function, receiving and distributing 140-character messages.</p>
 
 <p><strong>Disaster recovery</strong> is a subset of business continuity, which outlines how you recover from an incident.</p>
 
@@ -45,11 +45,11 @@
 
 <h4>Have you set those items aside?</h4>
 
-<p>Recognizing that you&rsquo;ll need form FB-227/R-14 is useless if you don&rsquo;t allocate some to the emergency preparedness bin.  Your employee, Susie, needs to know that you consider her essential.</p>
+<p>Recognizing that you&rsquo;ll need form FB-227/R-14 is useless if you don&rsquo;t allocate some to the emergency preparedness bin.  Also, your employee Susie needs to know that you consider her essential.</p>
 
 <h4>Have you tested your plan using <mark>only those items</mark>?</h4>
 
-<p>This is a key point&hellip;  You&rsquo;ll never be able to fill out FB-227/R-14 without a pencil.  Even more important, once you use up your only copy of FB-227/R-14, are there more?  Use only the items in your emergency preparedness bin for the test, then replace what was used.</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <h4>Are the items placed where you will need them?</h4>
 
