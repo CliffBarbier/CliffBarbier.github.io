@@ -2,7 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://CliffBarbier.github.io/blog/2014/03/12/road-warrior/</loc>
-        <lastmod>2014-03-12T19:59:12-05:00</lastmod>
+        <lastmod>2014-03-20T11:38:53-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CliffBarbier.github.io/blog/2014/03/21/emergency-preparedness/</loc>
+        <lastmod>2014-03-21T10:08:44-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CliffBarbier.github.io/about-me/</loc>
+        <lastmod>2014-03-20T12:19:05-05:00</lastmod>
     </url>
     <url>
         <loc>http://CliffBarbier.github.io/robots.txt</loc>
@@ -10,10 +18,14 @@
     </url>
     <url>
         <loc>http://CliffBarbier.github.io/blog/archives/</loc>
-        <lastmod>2014-03-12T19:59:12-05:00</lastmod>
+        <lastmod>2014-03-21T10:08:44-05:00</lastmod>
     </url>
     <url>
         <loc>http://CliffBarbier.github.io/</loc>
-        <lastmod>2014-03-12T19:59:12-05:00</lastmod>
+        <lastmod>2014-03-21T10:08:44-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CliffBarbier.github.io/about-blog/</loc>
+        <lastmod>2014-03-21T09:46:58-05:00</lastmod>
     </url>
 </urlset>

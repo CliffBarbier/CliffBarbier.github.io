@@ -4,7 +4,7 @@
   <title><![CDATA[Zen Garden of InfoSec]]></title>
   <link href="http://CliffBarbier.github.io/atom.xml" rel="self"/>
   <link href="http://CliffBarbier.github.io/"/>
-  <updated>2014-03-12T19:59:19-05:00</updated>
+  <updated>2014-03-21T10:09:05-05:00</updated>
   <id>http://CliffBarbier.github.io/</id>
   <author>
     <name><![CDATA[Cliff Barbier]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Emergency Preparedness]]></title>
+    <link href="http://CliffBarbier.github.io/blog/2014/03/21/emergency-preparedness/"/>
+    <updated>2014-03-21T09:41:12-05:00</updated>
+    <id>http://CliffBarbier.github.io/blog/2014/03/21/emergency-preparedness</id>
+    <content type="html"><![CDATA[<p>My own personal devotion to emergency preparedness cannot be overstated.</p>
+
+<p><span class='pullquote-right' data-pullquote='It requires adaptation.  It invites constant re-evaluation, constant testing, and a constant push toward greater effectiveness & efficiency.'>
+The attention I pay to this critical function borders on one of the true definitions of &ldquo;<dfn title="Any object or idea eliciting unquestioning reverence, respect, or devotion."><em>fetish</em></dfn>&rdquo;. Maybe that&rsquo;s because I come from the &ldquo;<a href="http://en.wikipedia.org/wiki/Hurricane_Katrina#Louisiana">Land of Katrina</a>&rdquo;. Or maybe it&rsquo;s because this subset of the business continuity field is a perfect match for me.  It requires adaptation.  It invites constant re-evaluation, constant testing, and a constant push toward greater effectiveness &amp; efficiency.
+</span></p>
+
+<!-- more -->
+
+
+<h2>What Is Emergency Preparedness?</h2>
+
+<p><strong>Business continuity</strong> is an umbrella term for ensuring that an organization&rsquo;s critical business functions will continue to operate or recover to an operational state within a short time.  Not all business continuity problems start out as disasters.  Twitter&rsquo;s once-frequent Fail Whale indicated the runaway success of the service.  <a href="http://whatisfailwhale.info"><img class="left" src="http://CliffBarbier.github.io/images/Failwhale.png" title="Lifting a Dreamer by Yiying Lu" alt="A low-resolution screenshot of the Fail Whale on Twitter"></a>  But this success obviously caused problems for their critical business function, receiving and distributing 140-character messages.</p>
+
+<p><strong>Disaster recovery</strong> is a subset of business continuity, which outlines how you recover from an incident.</p>
+
+<p><strong>Emergency preparedness</strong> are the things you do in preparation for an emergency.  Beefing up resiliency, staging materials, and <em>creating a plan</em> are key components of this.</p>
+
+<h2>Questions to ask</h2>
+
+<h4>What are your critical business processes?</h4>
+
+<p>What can you let slide and what has to get done to keep the business going?</p>
+
+<h4>Do you know what you need in the event of an emergency?</h4>
+
+<p>What items, personnel, &amp; skills are necessary for those processes that keep things going?</p>
+
+<h4>Have you set those items aside?</h4>
+
+<p>Recognizing that you&rsquo;ll need form FB-227/R-14 is useless if you don&rsquo;t allocate some to the emergency preparedness bin.  Your employee, Susie, needs to know that you consider her essential.</p>
+
+<h4>Have you tested your plan using <mark>only those items</mark>?</h4>
+
+<p>This is a key point&hellip;  You&rsquo;ll never be able to fill out FB-227/R-14 without a pencil.  Even more important, once you use up your only copy of FB-227/R-14, are there more?  Use only the items in your emergency preparedness bin for the test, then replace what was used.</p>
+
+<h4>Are the items placed where you will need them?</h4>
+
+<p>Designate a continuity site, somewhere that won&rsquo;t be disabled when your main site goes down.  Stash your stuff there and let everyone know that&rsquo;s where to meet after a problem.</p>
+
+<h4>Is all of this checked? On what schedule? By whom?</h4>
+
+<p>The checking process could be a training event in itself&mdash;if it&rsquo;s your turn to check the items this month, you should also go over immediate aftermath responsibilities &amp; be quizzed on them.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Road Warrior]]></title>
@@ -37,9 +87,10 @@
 
 <p>I have watched my children grow up via webcam.</p>
 
-<p>It is my job to meet for the first time and impress a person; a handful; a dozen; hundreds at a time.  This is difficult on 3 hours sleep.  Four energy drinks, energy shots, or cups of coffee help.</p>
+<p>It is my job to meet for the first time and impress a person; a handful; a dozen; hundreds at a time.  This is difficult on 3 hours sleep.  I subsist on energy drinks, energy shots, or coffee.</p>
 
-<p>I know more about TSA procedures than half of the TSA officers I come into contact with.  I want to shout, “you’re doing it wrong!”  But this is the last leg on my trip home&hellip;</p>
+<p>I know more about the TSA&rsquo;s screening procedures than half of the TSA officers I come into contact with.  I want to shout, “you’re doing it wrong!”<br/>
+But this is the last leg on my trip back home&hellip;</p>
 
 <p>I am a road warrior.</p>
 
