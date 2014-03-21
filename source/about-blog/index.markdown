@@ -53,6 +53,6 @@ This is an information security blog.  Inevitably, the discussion will turn to l
 
 
 ## Me
-The Cliff Notes version of [who I am](about-me) is this: I am a computer nerd who got into information security and IT risk management in 2005, and I've been in love with the field ever since.  Almost all of that time has been spent dealing with infosec and risk in regulated industries, especially financial institutions.  I have worked for an ethical hacking/security consulting firm and for a federal financial institution regulator.  
+The Cliff Notes version of [who I am]({{ root_url }}/about-me) is this: I am a computer nerd who got into information security and IT risk management in 2005, and I've been in love with the field ever since.  Almost all of that time has been spent dealing with infosec and risk in regulated industries, especially financial institutions.  I have worked for an ethical hacking/security consulting firm and for a federal financial institution regulator.  
 
 I am not the worlds greatest hacker; be wary of anyone who claims they are. I do not have all the answers; be wary of anyone who claims they do. What I am great at is starting useful conversations.  So here's my attempt to do that on a larger scale...
