@@ -22,8 +22,9 @@ Infosec is not all about deep technical knowledge. The basics of information sec
 
 
 ## Audience
-I expect my audience to be many different types of people.  
+I expect my audience to be many different types of people.  But it is going to be focused at the following:
 
+* Business executives and boards of directors
 * Non-technical managers of information security
 * New infosec managers with a technical background
 * Techies who are new to the field of information security.
@@ -55,4 +56,4 @@ This is an information security blog.  Inevitably, the discussion will turn to l
 ## Me
 The Cliff Notes version of [who I am]({{ root_url }}/about-me) is this: I am a computer nerd who got into information security and IT risk management in 2005, and I've been in love with the field ever since.  Almost all of that time has been spent dealing with infosec and risk in regulated industries, especially financial institutions.  I have worked for an ethical hacking/security consulting firm and for a federal financial institution regulator.  
 
-I am not the worlds greatest hacker; be wary of anyone who claims they are. I do not have all the answers; be wary of anyone who claims they do. What I am great at is starting useful conversations.  So here's my attempt to do that on a larger scale...
+I am not the worlds greatest hacker; be wary of anyone who claims they are. I do not have all the answers; be wary of anyone who claims they do. What I am great at is explaining things and starting useful conversations.  So here's my attempt to do that on a larger scale...

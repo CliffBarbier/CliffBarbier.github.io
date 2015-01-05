@@ -4,7 +4,7 @@
 
 url: http://CliffBarbier.github.io
 title: Zen Garden of InfoSec
-subtitle: Stories and teachings of an information security professional.
+subtitle: Information security and governance explained in plain language for IT personnel, business executives, and boards of directors.
 author: Cliff Barbier
 simple_search: https://www.google.com/search
 description: I'm interested in bridging the gap between technologists and the rest of the world. I excel at helping non-experts understand the technical or regulatory issues that apply to them. I believe information security should be lean, easy to use, understandable, and unobtrusive (where possible) for the end user. I believe that security products and processes should provide real, actionable information to users (InfoSec or end).
@@ -51,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/twitter.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, asides/twitter.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -79,7 +79,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: Cliff.Barbier@gmail.com
+googleplus_user: 
 googleplus_hidden: false
 
 # Pinboard
