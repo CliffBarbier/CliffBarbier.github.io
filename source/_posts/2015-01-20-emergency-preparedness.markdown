@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emergency Preparedness"
-date: 2014-03-21 09:41:12 -0500
+date: 2015-01-21 09:41:12 -0500
 comments: true
 category: "Business Continuity"
 ---
