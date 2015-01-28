@@ -71,8 +71,8 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: cliffb_infosec
-+twitter_widget_id: 560510839422455809
-+twitter_tweet_count: 4
+twitter_widget_id: 560510839422455809
+twitter_tweet_count: 4
 twitter_tweet_button: true
 
 # Google +1
