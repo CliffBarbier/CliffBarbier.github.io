@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/cliffbarbier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cliffbarbier.com
+  * I am cliffbarbier (https://keybase.io/cliffbarbier) on keybase.
+  * I have a public key with fingerprint 4DEB 97F6 1905 B46D 776D  998B 9338 F0D2 679E 3F8A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "4deb97f61905b46d776d998b9338f0d2679e3f8a",
+            "host": "keybase.io",
+            "key_id": "9338F0D2679E3F8A",
+            "uid": "dde8a765e5bba9e11ea981b2161a4600",
+            "username": "cliffbarbier"
+        },
+        "merkle_root": {
+            "ctime": 1423167463,
+            "hash": "2b299b653e15491b26a95a2ed0b18959e5dd2a56d9f13088b21bfeac6e91e4ad8931093cfd469753b68746a287c4b7a8dd17102a6f8ebebf8523e34112d4c3f3",
+            "seqno": 148801
+        },
+        "service": {
+            "hostname": "cliffbarbier.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423167517,
+    "expire_in": 157680000,
+    "prev": "ff07e6502348921eda492f23c43aaff4dc2f9bfd240bea0dba8f998e12be054f",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkntQFWUYxg8QR2AmhoxUGmBwMdFC2vuFW5CA1CA6I/AHXU7ft/stLAfOHvYc
+kEs0WiMNBQ4kqZ2CMxiOpE5aXGa4RDEZJlSIMI0SopD3ESYYUMNJ2mVoypn2r919
+f+/zPs/3vbVPepk8PearTl9ayHmm12PwNjRljJwPKcegKpVi0eWYmK8gm9N4s4EC
+hEVjVlQKgQNFKWqYTZVQVJ4jbIWJxIqR5lBUm07hUVwUhVVEGrjRLCu2HKTZNcXQ
+wmgJQYGTWULAGUizEsexkiDwUKAoXsYlkuUERMk80CVzVYfzsanYsqZFkfS/Bp+C
+Jxl8MpXCJ+q1ouWCJCEecCyDGAiBgAgCAYEnIEmwBKBZHDdAB9JWIun+ZRkCDSpI
+MzwXIM2ajyyaqi4HF52KgRE0SREsR7OU7go4cvVGEpKCAFmGQgRDC7o+CwQGkEjC
+IcELjIAYSSIBo4eTCQrned0AlBEQWSQQiAYSL1AELlCiLNGswDEUZHldH5A8J9KQ
+A7wkERyBk4CVeQQRlHmGpBBFEwQp0SIlU3oMByq0qYY5nseJCuNbK1ZEZPg2ju5/
+EkaJaoHeaNdUpyqq+Xo11+m0RxvBnaX2dgPfjaBlRcgCFZukX95/b9eY8/ihMAQX
+iaESu6Ihi2IQDMfyuP4Yc1CxLinLOIdYBicpmhdIAkmAFkiZpESaAkCWaUkkZQHK
+EknjEAFcgoCX9ZVABAkRztDyv1H1SU6Qo0s6lBwbcBZpCKuo8gx+wuThaTJ7exrr
+a/LzDfhnp0fEANNe/v2+Yw/urs9g6m/gPx39C73Zgvl/EdKw4F16LDFmzszXVUVc
+ZbccPFFTPbzPtL2Gb/ccTX0J+/HVwbUXExfSHoa9E37u3nih+7Q5+isfLWbfZ9O9
+U7tG7k00BlZeedB1kzYdd8Gurrrpgst9uzsHXr/ul9W7NL/hfq1tbDqk9eM2a2D3
+Dsu2ek+WKPR/uv9ZJujl2xmNobELXhkPzVPuEO8Lmzf2ZM5yZYPfDKX3iz7Pzaw7
+UWZ+IXXnXLlfwJ4rlUtJfeJ8T/GuVW+1J3e64kpahakM+SNf29uuS9+PbnImXBv6
+/dN19Ve5vk3VWYfX/+Z7cLwG1f98fODoRG3e5QAvkU3ZP2mZ7n9kKVEfTfudD74b
+/1SA+5eihrpXOl1Hkhuak3/9tqi/oHX2+a3mTLFnUsjuPmkN+3zJXWJdGhZ3HJ7L
++1K9+edic2x3eexMYFbEnG9oiC3P5Tuj/iCYsz7QzvjcyafT16z1aAptIffHnks7
+VZ50avKGlf6k/euhDbMx89fcE4fGg25Z2tICJ14cq4jvHOgZ3jK5+lZofHecK/tk
++ui7q+777xWby0bPNF3s3HbkNdD43tnKxey03EaPlgTGsrO1Iyrb5TjrDm7bfCd8
+JGLP1srhDvK7sXx75prwmA9zVl+vNi0mYB1BlgMXtsf1NEVUDaVsRErPgVn80B+p
+Yv0bw38D
+=NYzG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cliffbarbier
+
+==================================================================
+
